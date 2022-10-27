@@ -1,9 +1,15 @@
-*{
+#xmlhttprequest-interceptor *{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
 #xmlhttprequest-interceptor .interceptor-item{
-    background-color: red;
+    margin-bottom: 0.3rem;
+}
+#xmlhttprequest-interceptor .text-align-center{
+    text-align: center;
+}
+#xmlhttprequest-interceptor .interceptors{
+    padding: 0.5rem;
 }
