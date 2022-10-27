@@ -13,3 +13,6 @@
 #xmlhttprequest-interceptor .interceptors{
     padding: 0.5rem;
 }
+#xmlhttprequest-interceptor.main-content{
+    position: fixed; bottom: 0; right: 0; width: 300px; height: 250px; z-index:9999999; background-color: lightgray; overflow: auto;
+}
