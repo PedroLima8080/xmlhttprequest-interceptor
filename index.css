@@ -5,7 +5,7 @@
 }
 
 #xmlhttprequest-interceptor .interceptor-item{
-    margin-bottom: 1rem;
+    margin-bottom: 0.3rem !important;
 }
 #xmlhttprequest-interceptor .text-align-center{
     text-align: center;
